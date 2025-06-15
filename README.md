@@ -26,9 +26,9 @@ We use a **Bidirectional LSTM (Long Short-Term Memory)** neural network architec
 ## What libraries are used?
 - TensorFlow / Keras: for model building and training
 - NumPy: for numerical operations
-- Matplotlib: for visualization (accuracy/loss plots)
-- sklearn: for preprocessing and evaluation (e.g., train-test split, accuracy)
-- nltk or keras.preprocessing.text: for text tokenization (depending on your setup)
+- Matplotlib: for visualization 
+- sklearn: for preprocessing and evaluation 
+- nltk or keras.preprocessing.text: for text tokenization 
 ## 📂 Dataset Reference
 The dataset used in this project is the **IMDb Movie Reviews Dataset**, which is publicly available.
 
