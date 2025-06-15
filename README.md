@@ -34,4 +34,11 @@ The dataset used in this project is the **IMDb Movie Reviews Dataset**, which is
 
 - **IMDb Dataset Link**: [https://www.kaggle.com/datasets/bhavikjikadara/imdb-dataset-sentiment-analysis/data](https://www.kaggle.com/datasets/bhavikjikadara/imdb-dataset-sentiment-analysis/data)
 ## 🚀 How to Run the Model
+- pip install tensorflow pandas numpy scikit-learn nltk matplotlib seaborn
+
 ## 📄 Paper / Research Reference
+- https://doi.org/10.1162/neco.1997.9.8.1735
+- https://ieeexplore.ieee.org/document/650093
+- http://ai.stanford.edu/~amaas/papers/wvSent_acl2011.pdf
+- https://ieeexplore.ieee.org/abstract/document/6795963
+- https://aclanthology.org/P11-1015.pdf
