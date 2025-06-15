@@ -1,8 +1,8 @@
-## 📌 What is this project about?
+## 📌 What is this project about? 
 This project is a **Sentiment Analysis** deep learning model that classifies text data, such as IMDb movie reviews into positive or negative sentiments. It uses natural language processing (NLP) techniques to clean, tokenize, and preprocess the text data before feeding it into a Bidirectional LSTM neural network.
 ## What architecture do you use?
-We use a **Bidirectional LSTM (Long Short-Term Memory)** neural network architecture implemented using Keras Sequential API. Here's a breakdown of the model layers:
-
+We use a **Bidirectional LSTM (Long Short-Term Memory)** neural network architecture implemented using Keras Sequential API. Here's a breakdown of the model layers: 
+  
 -Embedding Layer
 
 Converts each word in the input sequence into a dense vector of fixed size.
