@@ -29,3 +29,9 @@ We use a **Bidirectional LSTM (Long Short-Term Memory)** neural network architec
 - Matplotlib: for visualization (accuracy/loss plots)
 - sklearn: for preprocessing and evaluation (e.g., train-test split, accuracy)
 - nltk or keras.preprocessing.text: for text tokenization (depending on your setup)
+## 📂 Dataset Reference
+The dataset used in this project is the **IMDb Movie Reviews Dataset**, which is publicly available.
+
+- **IMDb Dataset Link**: [https://www.kaggle.com/datasets/bhavikjikadara/imdb-dataset-sentiment-analysis/data](https://www.kaggle.com/datasets/bhavikjikadara/imdb-dataset-sentiment-analysis/data)
+## 🚀 How to Run the Model
+## 📄 Paper / Research Reference
