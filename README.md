@@ -28,7 +28,9 @@ We use a **Bidirectional LSTM (Long Short-Term Memory)** neural network architec
 - NumPy: for numerical operations
 - Matplotlib: for visualization 
 - sklearn: for preprocessing and evaluation 
-- nltk or keras.preprocessing.text: for text tokenization 
+- nltk or keras.preprocessing.text: for text tokenization
+- Pandas: for data manipulation and analysis
+- Seaborn: for statistical data visualization
 ## 📂 Dataset Reference
 The dataset used in this project is the **IMDb Movie Reviews Dataset**, which is publicly available.
 
